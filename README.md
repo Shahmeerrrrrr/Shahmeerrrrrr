@@ -10,7 +10,7 @@ I've been learning to code from 3 years and I'm master in Front-end and Back-end
 *   ✉️  You can contact me at [shahmeerraheel786@gmail.com](mailto:shahmeerraheel786@gmail.com)
 *   🧠  I'm learning a new front-end framework Svelte Js also some cool Ai stuff
 *   🤝  I'm open to collaborating on cool and interesting projects
-*   ⚡  "As an Arsenal fan and programmer, I can debug anything except why we’re still not winning trophies!"
+*   ⚡  Beside coding I do support Arsenal and "As an Arsenal fan and programmer, I can debug anything except why we’re still not winning trophies!"
 <h1>Skills</h1>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
