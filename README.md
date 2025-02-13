@@ -28,13 +28,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://hive.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive" /></a>
 </p>
 
-### **Big Data & Analytics Tools**  
+### **Big Data & Analytics Tools**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pandas_logo.svg/512px-Pandas_logo.svg.png" width="36" height="36" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png" width="80" height="36" alt="Apache Spark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Hadoop_logo.svg/1024px-Apache_Hadoop_logo.svg.png" width="80" height="36" alt="Hadoop" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_BI_logo.svg/800px-Power_BI_logo.svg.png" width="80" height="36" alt="Power BI" />
-</p
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
 
 ### **🛠️ Data Engineering Tools**  
 <p align="left">
