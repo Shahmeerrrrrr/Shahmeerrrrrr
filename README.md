@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🧠 Currently learning **Data Engineering & AI**  
 - 🤝 Open to collaborations on **exciting data projects**  
 - ⚡ Besides coding, I support **Arsenal**  
-  > "As an Arsenal fan and programmer, I can debug anything except why we’re still not winning trophies!"  
+  > "And as an Arsenal fan and programmer, I can debug anything except why we’re still not winning trophies!"  
 
 ---
 
