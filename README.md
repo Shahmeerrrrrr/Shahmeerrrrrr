@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shahmeer  
 ==================================================================================================================================  
 
-### 💾 Data Analyst | Engineer  
+### 💾 Data Analyst | Scientist
 
 - ✉️ **Contact:** [shahmeerraheel786@gmail.com](mailto:shahmeerraheel786@gmail.com)  
 - 🧠 Currently learning **Data Engineering & AI**  
