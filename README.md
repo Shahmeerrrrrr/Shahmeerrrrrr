@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 
 
 - ✉️ **Contact:** [shahmeerraheel786@gmail.com](mailto:shahmeerraheel786@gmail.com)  
-- 🧠 Currently learning **Data Engineering & AI**  
+- 🧠 Currently learning **Data Science & AI**  
 - 🤝 Open to collaborations on **exciting data projects**  
 
 
