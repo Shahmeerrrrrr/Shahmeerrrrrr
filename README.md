@@ -1,5 +1,5 @@
 
-# Hi, I'm Shahmeer 👋
+# Hi, I'm Muhammad Shahmeer 👋
 
 - 📧 **Email:** [shahmeerraheel786@gmail.com](mailto:shahmeerraheel786@gmail.com)  
 - 📊 Passionate **Data Scientist / Analyst** with a love for uncovering insights through data  
