@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Shahmeer 👋
+# Hi, I'm Muhammad Shahmeer
 
 - 📧 **Email:** [shahmeerraheel786@gmail.com](mailto:shahmeerraheel786@gmail.com)  
 <!-- 💻 Passionate **Software Engineer & Data Scientist** 
