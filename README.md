@@ -1,14 +1,16 @@
 # Hi, I'm Muhammad Shahmeer 👋
 
 - 📧 **Email:** [shahmeerraheel786@gmail.com](mailto:shahmeerraheel786@gmail.com)  
-- 💻 Passionate **Software Engineer & Data Scientist** 
+<!-- 💻 Passionate **Software Engineer & Data Scientist** 
 - 🤖 Exploring **Machine Learning**, **Deep Learning**, and **Computer Vision**  
 - 🌐 Building full-stack apps using **React**, **Next.js**, and **TypeScript**  
 - 🤝 Open to collaborating on **data-driven projects**, **AI innovations**, and **modern web apps**
 
----
+--->
 
-## 🚀 Skills & Tools
+
+<!-- ## 🚀 Skills & Tools  -->
+
 
 ### 🧪 Programming Languages
 <p>
