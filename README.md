@@ -1,5 +1,5 @@
 # WHO AM I
-Hi! I'm Muhammad Shahmeer, an undergrad at the College of Staten Island with a strong interest in full-stack development, machine learning, and computer vision. I enjoy building useful projects with tools like React, Node.js, Firebase, and Python libraries like TensorFlow and OpenCV.
+Hi! I'm Muhammad Shahmeer, an undergrad at the College of Staten Island with a strong interest in full-stack development, machine learning, and AI. I enjoy building useful projects with tools like React, Node.js, Firebase, and Python libraries like TensorFlow and OpenCV.
 
 I’m always learning and love solving real-world problems through code—whether it’s on the frontend, backend, or with data. I’ve also explored tools like MySQL, MongoDB, Pandas, and Tailwind CSS.
 
