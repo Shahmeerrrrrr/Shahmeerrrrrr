@@ -1,6 +1,11 @@
-# Hi, I'm Muhammad Shahmeer
+# WHO AM I
+Hi! I'm Muhammad Shahmeer, an undergrad at the College of Staten Island with a strong interest in full-stack development, machine learning, and computer vision. I enjoy building useful projects with tools like React, Node.js, Firebase, and Python libraries like TensorFlow and OpenCV.
 
-- 📧 **Email:** [shahmeerraheel786@gmail.com](mailto:shahmeerraheel786@gmail.com)  
+I’m always learning and love solving real-world problems through code—whether it’s on the frontend, backend, or with data. I’ve also explored tools like MySQL, MongoDB, Pandas, and Tailwind CSS.
+
+Outside of tech, I’m a huge fan of the New York Knicks 🏀 and Arsenal FC ⚽. I also enjoy staying active, lifting, playing sports or trying out new recipes in the kitchen.
+
+I'm always open to cool opportunities and collaborations. Feel free to reach out at shahmeerraheel786@gmail.com!
 <!-- 💻 Passionate **Software Engineer & Data Scientist** 
 - 🤖 Exploring **Machine Learning**, **Deep Learning**, and **Computer Vision**  
 - 🌐 Building full-stack apps using **React**, **Next.js**, and **TypeScript**  
