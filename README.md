@@ -67,7 +67,7 @@ I'm always open to cool opportunities and collaborations. Feel free to reach out
 ---
 
 ## 📈 Currently Learning
-- Data structure and algorithams (will die one day doing this😭😭)
+- Data structure and algorithams (will die one day doing this🙏🏽😭😭)
 - Deep Learning for Computer Vision
 - TypeScript & Backend APIs with Node.js
 - Full-Stack App Architecture (Next.js + MongoDB/Firebase)
