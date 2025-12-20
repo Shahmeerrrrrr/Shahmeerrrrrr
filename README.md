@@ -1,4 +1,6 @@
-# WHO AM I 👾
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1200" height="160" alt="animated hello">
+
+<br><br>
 Hi! I'm Shahmeer, an undergrad at the College of Staten Island with a strong interest in full-stack development, Math, and AI. I enjoy building useful projects with tools like React, Node.js, Firebase, and Python libraries like TensorFlow and OpenCV.
 
 I’m always learning and love solving real-world problems through code whether it’s on the frontend, backend, or with data. I’ve also explored tools like MySQL, MongoDB, Pandas, and Tailwind CSS.
@@ -12,7 +14,7 @@ I'm always open to cool opportunities and collaborations. Feel free to reach out
 - 🤝 Open to collaborating on **data-driven projects**, **AI innovations**, and **modern web apps**
 
 --->
-  
+  <br><br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
