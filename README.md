@@ -1,7 +1,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1200" height="160" alt="animated hello">
 
 <br><br>
-Hi! I'm Shahmeer, an undergrad at CUNY with a strong interest in full-stack development, Math, and AI. I enjoy building stuff and engineering it.
+Hiya! I'm Shahmeer, an undergrad at CUNY with a strong interest in full-stack development, Math, and AI. I enjoy building stuff and engineering it.
 
 I’m always learning and love solving real-world problems through code whether it’s on the frontend, backend, or with data.
 
