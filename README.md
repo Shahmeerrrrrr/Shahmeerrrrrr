@@ -1,13 +1,13 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1200" height="160" alt="animated hello">
 
 <br><br>
-Hi! I'm Shahmeer, an undergrad at the College of Staten Island with a strong interest in full-stack development, Math, and AI. I enjoy building useful projects with tools like React, Node.js, Firebase, and Python libraries like TensorFlow and OpenCV.
+Hi! I'm Shahmeer, an undergrad at CUNY with a strong interest in full-stack development, Math, and AI. I enjoy building stuff and engineering it.
 
-I’m always learning and love solving real-world problems through code whether it’s on the frontend, backend, or with data. I’ve also explored tools like MySQL, MongoDB, Pandas, and Tailwind CSS.
+I’m always learning and love solving real-world problems through code whether it’s on the frontend, backend, or with data.
 
-Outside of tech, I’m a huge fan of the New York Knicks 🏀 and Arsenal ⚽. I also enjoy staying active, lifting, playing sports or trying out new recipes in the kitchen.
+Outside of tech/nerd stuff, I’m a huge fan of the New York Knicks 🏀 and Arsenal COYG ⚽.
 
-I'm always open to cool opportunities and collaborations. Feel free to reach out at shahmeerraheel786@gmail.com!
+Feel free to reach out at shahmeerraheel786@gmail.com! 
 <!-- 💻 Passionate **Software Engineer & Data Scientist** 
 - 🤖 Exploring **Machine Learning**, **Deep Learning**, and **Computer Vision**  
 - 🌐 Building full-stack apps using **React**, **Next.js**, and **TypeScript**  
