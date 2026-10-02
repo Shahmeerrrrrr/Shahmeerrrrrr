@@ -2,9 +2,6 @@
 
 <br><br>
 Hiya! I'm Shahmeer, an undergrad at CUNY with a strong interest in full-stack development, Math, and AI. I enjoy building stuff and engineering it.
-
-I’m always learning and love solving real-world problems through code whether it’s on the frontend, backend, or with data.
-
 Outside of tech/nerd stuff, I’m a huge fan of the New York Knicks 🏀 and Arsenal COYG ⚽.
 
 Feel free to reach out at shahmeerraheel786@gmail.com! 
