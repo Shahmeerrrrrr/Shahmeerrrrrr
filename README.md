@@ -1,16 +1,17 @@
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1200" height="160" alt="animated hello">
+<!--   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1200" height="160" alt="animated hello">
+--->
 
 <br><br>
-Hiya! I'm Shahmeer, an undergrad at CUNY with a strong interest in full-stack development, Math, and AI. I enjoy building stuff and engineering it.
-Outside of tech/nerd stuff, I’m a huge fan of the New York Knicks 🏀 and Arsenal COYG ⚽.
+*Hiya! I'm Shahmeer, an undergrad at [CUNY](https://www.cuny.edu). I code stuff and engineer it tbh.*
+*Outside of tech/nerd stuff, I’m a huge fan of the [New York Knicks](https://www.nba.com/knicks) and [Arsenal](https://www.arsenal.com) COYG.*
 
-Feel free to reach out at shahmeerraheel786@gmail.com! 
+*Feel free to reach out at shahmeerraheel786@gmail.com!* 
 <!-- 💻 Passionate **Software Engineer & Data Scientist** 
 - 🤖 Exploring **Machine Learning**, **Deep Learning**, and **Computer Vision**  
 - 🌐 Building full-stack apps using **React**, **Next.js**, and **TypeScript**  
 - 🤝 Open to collaborating on **data-driven projects**, **AI innovations**, and **modern web apps**
 
---->
+
   <br><br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -64,3 +65,4 @@ Feel free to reach out at shahmeerraheel786@gmail.com!
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
+--->
