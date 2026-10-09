@@ -2,7 +2,7 @@
 --->
 
 <br><br>
-*Hiya! I'm Shahmeer, an undergrad at [CUNY](https://www.cuny.edu). I code stuff and engineer it tbh.*
+*Hiya! I'm Shahmeer, an undergrad at [CUNY](https://www.cuny.edu). I code stuff and engineer it.*
 *Outside of tech/nerd stuff, I’m a huge fan of the [New York Knicks](https://www.nba.com/knicks) and [Arsenal](https://www.arsenal.com) COYG.*
 
 *Feel free to reach out at shahmeerraheel786@gmail.com!* 
